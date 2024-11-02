@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0oki6dmfbdaj"
+path="res://.godot/imported/lampSquareTable.obj-d939b1a77cacc352f065dc260145bafb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lampSquareTable.obj-d939b1a77cacc352f065dc260145bafb.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/lampSquareTable.obj"
+dest_files=["res://.godot/imported/lampSquareTable.obj-d939b1a77cacc352f065dc260145bafb.mesh", "res://.godot/imported/lampSquareTable.obj-d939b1a77cacc352f065dc260145bafb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

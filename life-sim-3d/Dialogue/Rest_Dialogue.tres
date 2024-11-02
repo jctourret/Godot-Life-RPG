@@ -1,0 +1,6 @@
+[gd_resource type="JSON" format=3 uid="uid://chdakj6akrjjh"]
+
+[resource]
+data = {
+"Boss": ["There are plenty costumers today", "Ready to earn some money?"]
+}

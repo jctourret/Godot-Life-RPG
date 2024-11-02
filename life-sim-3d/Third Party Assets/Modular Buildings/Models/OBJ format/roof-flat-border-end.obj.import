@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d00mrt8tppy43"
+path="res://.godot/imported/roof-flat-border-end.obj-354ca28917bf22b7b575185c076c6341.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-border-end.obj-354ca28917bf22b7b575185c076c6341.mesh"]
+
+source_file="res://Third Party Assets/Modular Buildings/Models/OBJ format/roof-flat-border-end.obj"
+dest_files=["res://.godot/imported/roof-flat-border-end.obj-354ca28917bf22b7b575185c076c6341.mesh", "res://.godot/imported/roof-flat-border-end.obj-354ca28917bf22b7b575185c076c6341.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

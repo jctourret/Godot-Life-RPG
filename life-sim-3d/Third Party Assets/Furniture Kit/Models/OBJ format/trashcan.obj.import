@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bwsn6v0tbmt1v"
+path="res://.godot/imported/trashcan.obj-2ab82808ebd121a575f2ca74e1c7aa36.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trashcan.obj-2ab82808ebd121a575f2ca74e1c7aa36.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/trashcan.obj"
+dest_files=["res://.godot/imported/trashcan.obj-2ab82808ebd121a575f2ca74e1c7aa36.mesh", "res://.godot/imported/trashcan.obj-2ab82808ebd121a575f2ca74e1c7aa36.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

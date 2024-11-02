@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ciwj5vfyyu7on"
+path="res://.godot/imported/window-white-narrow.obj-10a012c20b7c994efe9d3f934cab2046.mesh"
+
+[deps]
+
+files=["res://.godot/imported/window-white-narrow.obj-10a012c20b7c994efe9d3f934cab2046.mesh"]
+
+source_file="res://Third Party Assets/Modular Buildings/Models/OBJ format/window-white-narrow.obj"
+dest_files=["res://.godot/imported/window-white-narrow.obj-10a012c20b7c994efe9d3f934cab2046.mesh", "res://.godot/imported/window-white-narrow.obj-10a012c20b7c994efe9d3f934cab2046.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqi5kgysltbla"
+path="res://.godot/imported/roof-flat-top.obj-5db60d283a3aa94c5353729ec4c5287b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-flat-top.obj-5db60d283a3aa94c5353729ec4c5287b.mesh"]
+
+source_file="res://Third Party Assets/Modular Buildings/Models/OBJ format/roof-flat-top.obj"
+dest_files=["res://.godot/imported/roof-flat-top.obj-5db60d283a3aa94c5353729ec4c5287b.mesh", "res://.godot/imported/roof-flat-top.obj-5db60d283a3aa94c5353729ec4c5287b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

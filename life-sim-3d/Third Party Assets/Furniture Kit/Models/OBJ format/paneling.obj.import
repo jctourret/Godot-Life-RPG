@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8cko1nr148ph"
+path="res://.godot/imported/paneling.obj-3f4a715f599dd8f677d93b2f878e5c13.mesh"
+
+[deps]
+
+files=["res://.godot/imported/paneling.obj-3f4a715f599dd8f677d93b2f878e5c13.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/paneling.obj"
+dest_files=["res://.godot/imported/paneling.obj-3f4a715f599dd8f677d93b2f878e5c13.mesh", "res://.godot/imported/paneling.obj-3f4a715f599dd8f677d93b2f878e5c13.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

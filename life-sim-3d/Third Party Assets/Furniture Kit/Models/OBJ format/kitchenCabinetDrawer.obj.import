@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c0qyc50nfitif"
+path="res://.godot/imported/kitchenCabinetDrawer.obj-c319224c9db18e3e239bf9d3ba6761ef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/kitchenCabinetDrawer.obj-c319224c9db18e3e239bf9d3ba6761ef.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/kitchenCabinetDrawer.obj"
+dest_files=["res://.godot/imported/kitchenCabinetDrawer.obj-c319224c9db18e3e239bf9d3ba6761ef.mesh", "res://.godot/imported/kitchenCabinetDrawer.obj-c319224c9db18e3e239bf9d3ba6761ef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

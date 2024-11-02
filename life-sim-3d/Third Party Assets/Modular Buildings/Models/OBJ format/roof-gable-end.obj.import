@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://blw42hk0j42kk"
+path="res://.godot/imported/roof-gable-end.obj-345f32205f2c467aef5dac8604d80010.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roof-gable-end.obj-345f32205f2c467aef5dac8604d80010.mesh"]
+
+source_file="res://Third Party Assets/Modular Buildings/Models/OBJ format/roof-gable-end.obj"
+dest_files=["res://.godot/imported/roof-gable-end.obj-345f32205f2c467aef5dac8604d80010.mesh", "res://.godot/imported/roof-gable-end.obj-345f32205f2c467aef5dac8604d80010.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

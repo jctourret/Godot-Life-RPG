@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqr8ldpsfo720"
+path="res://.godot/imported/window-white-tall.obj-706f9ae74087e85fa2516310bfc5d6df.mesh"
+
+[deps]
+
+files=["res://.godot/imported/window-white-tall.obj-706f9ae74087e85fa2516310bfc5d6df.mesh"]
+
+source_file="res://Third Party Assets/Modular Buildings/Models/OBJ format/window-white-tall.obj"
+dest_files=["res://.godot/imported/window-white-tall.obj-706f9ae74087e85fa2516310bfc5d6df.mesh", "res://.godot/imported/window-white-tall.obj-706f9ae74087e85fa2516310bfc5d6df.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

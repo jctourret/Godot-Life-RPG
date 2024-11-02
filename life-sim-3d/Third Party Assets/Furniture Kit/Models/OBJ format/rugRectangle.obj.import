@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://djavdw2t31ec4"
+path="res://.godot/imported/rugRectangle.obj-7d757de16ead9a08352114c97e36f313.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rugRectangle.obj-7d757de16ead9a08352114c97e36f313.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/rugRectangle.obj"
+dest_files=["res://.godot/imported/rugRectangle.obj-7d757de16ead9a08352114c97e36f313.mesh", "res://.godot/imported/rugRectangle.obj-7d757de16ead9a08352114c97e36f313.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5gu8swpqesjn"
+path="res://.godot/imported/televisionModern.obj-f361de1ae8ebece5cf09ed835a8740ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/televisionModern.obj-f361de1ae8ebece5cf09ed835a8740ee.mesh"]
+
+source_file="res://Third Party Assets/Furniture Kit/Models/OBJ format/televisionModern.obj"
+dest_files=["res://.godot/imported/televisionModern.obj-f361de1ae8ebece5cf09ed835a8740ee.mesh", "res://.godot/imported/televisionModern.obj-f361de1ae8ebece5cf09ed835a8740ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
